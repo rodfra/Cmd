@@ -1,2 +1,2 @@
-# Exercise_unit_5
-Repository for the compulsory exercise
+# Proving Git by the CMD
+
